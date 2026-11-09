@@ -1,6 +1,6 @@
 # TPSCombatSandbox
 
-**C++ Gameplay Programming | Unreal Engine 5.7 | Third-Person Combat & Tactical AI**
+**C++ Gameplay Programming | Unreal Engine 5.7 | Third-Person Combat & Tactical AI** (Main repository has to stay private for legal purposes)
 
 TPSCombatSandbox is an ongoing third-person combat project built in Unreal Engine 5.7, with an emphasis on C++ gameplay architecture, character and weapon systems, and tactical enemy AI.
 
